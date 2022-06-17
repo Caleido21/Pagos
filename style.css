@@ -1,0 +1,45 @@
+*
+{
+    background-color: rgb(6, 2, 37);
+    text-align: center;
+    align-items: center;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 25px;
+}
+#min
+{
+    background-color: white;
+    color: black;
+}
+body
+{
+    display: block;
+}
+
+
+#ejemplo
+{
+    display: inline-block;
+    width: 70vw;
+    background-color: white;
+    width: auto;
+    color: black;
+}
+
+#resultado
+{
+    font-size: 30px;
+    border: 3px #2d2b47 solid;
+    background-color: #2d2b47;
+    border-radius: 10px;
+
+}
+
+span
+{
+    font-size: 40px;
+
+}
