@@ -15,6 +15,6 @@ function calcular()
     }
     else
     {
-        parrafo.innerHTML = "La operación paga <span><br>" + pagoEn$ + "</span>$<br><br>Te da un<br> <span>" + eficienciaTotal + "%</span><br> de eficiencia<br><br>Y necesitas <br><span>" + paquetesParaEl100 + "</span>paquetes<br>  para un <br><span>" +  EficienciaArribaDel100 + "</span>% de Eficiencia";
+        parrafo.innerHTML = "La operación paga <span><br>" + pagoEn$ + "</span>$<br><br>Te da un<br> <span>" + eficienciaTotal + "%</span><br> de eficiencia<br><br>Y necesitas <br><span>" + paquetesParaEl100 + "</span> paquetes<br>  para un <br><span>" +  EficienciaArribaDel100 + "</span>% de Eficiencia";
     }
 }
